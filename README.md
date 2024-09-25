@@ -1,4 +1,4 @@
-# gossm
+# awstool
 
 `gossm` is interactive CLI tool that you should select server in AWS and then could connect or send files your AWS server using start-session, ssh, scp under AWS Systems Manger Session Manager.
 <p align="center">
