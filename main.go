@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gjbae1212/gossm/cmd"
+	"github.com/JaeHeong/aws-profile-changer-and-ssm/cmd"
 )
 
 var gossmVersion string

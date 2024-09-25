@@ -1,14 +1,14 @@
 version: 2
 jobs:
   build:
-    working_directory: /go/src/github.com/gjbae1212/gossm
+    working_directory: /go/src/github.com/JaeHeong/aws-profile-changer-and-ssm
 
     branches:
       only:
         - master
 
     docker:
-      - image: golang:1.17
+      - image: golang:1.23
 
     environment:
       GOPATH: /go

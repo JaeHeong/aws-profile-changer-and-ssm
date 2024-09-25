@@ -1,6 +1,6 @@
-module github.com/gjbae1212/gossm
+module github.com/JaeHeong/aws-profile-changer-and-ssm
 
-go 1.18
+go 1.23
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.4
