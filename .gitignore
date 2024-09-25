@@ -1,0 +1,10 @@
+.idea
+vendor
+test
+log
+gossm
+gossm.exe
+test
+coverage.txt
+dist
+gopath
